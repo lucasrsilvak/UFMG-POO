@@ -1,0 +1,1353 @@
+[20:46] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:46] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:46] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:46] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:46] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:46] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:46] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:46] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:46] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:46] [Sistema] Erro! É necessário estar logado!
+[20:46] [Sistema] Erro! Procedimento não cadastrado!
+[20:46] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:46] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:46] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:46] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:46] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:46] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:46] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:46] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:46] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:46] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:46] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:46] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:46] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:46] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:46] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:46] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:46] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:46] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:46] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:46] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:46] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:46] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:46] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:46] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:46] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:46] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:46] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:46] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:46] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:46] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:46] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:46] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:46] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:46] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:46] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:46] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:46] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:47] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:47] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:47] [Sistema] Erro! É necessário estar logado!
+[20:47] [Sistema] Erro! Procedimento não cadastrado!
+[20:47] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:47] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:47] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:47] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:47] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:47] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:47] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:47] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:47] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:47] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:47] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:47] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:47] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:47] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:47] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:48] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:48] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:48] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:48] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:48] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:48] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:48] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:48] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:48] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:48] [Sistema] Erro! É necessário estar logado!
+[20:48] [Sistema] Erro! Procedimento não cadastrado!
+[20:48] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:48] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:48] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:48] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:48] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:48] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:48] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:48] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:48] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:48] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:48] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:48] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:48] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:48] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:48] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:48] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:48] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:48] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:48] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:48] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:48] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:48] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:48] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:48] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:48] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:48] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:48] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:48] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:48] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:48] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:48] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:48] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:48] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:48] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:48] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:48] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:48] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:54] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:54] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:54] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:54] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:54] [Sistema] Erro! É necessário estar logado!
+[20:54] [Sistema] Erro! Procedimento não cadastrado!
+[20:54] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:54] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:54] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:54] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:54] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:54] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:54] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:54] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:54] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:54] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:54] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:54] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:54] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:54] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:54] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:54] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:54] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:54] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:54] [Sistema] Erro! É necessário estar logado!
+[20:54] [Sistema] Erro! Procedimento não cadastrado!
+[20:54] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:54] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:54] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:54] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:54] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:54] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:54] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:54] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:54] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:54] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:54] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:54] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:54] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:54] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:54] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:54] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:54] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:54] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:54] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:54] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:55] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:55] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:55] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:55] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:55] [Sistema] Erro! É necessário estar logado!
+[20:55] [Sistema] Erro! Procedimento não cadastrado!
+[20:55] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:55] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:55] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:55] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:55] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:55] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:55] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:55] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:55] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:55] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:55] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:55] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:55] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:55] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:55] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:55] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:55] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:55] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:55] [Sistema] Erro! É necessário estar logado!
+[20:55] [Sistema] Erro! Procedimento não cadastrado!
+[20:55] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:55] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:55] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:55] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:55] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:55] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:55] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:55] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:55] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:55] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:55] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:55] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:55] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:55] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:55] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:55] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:55] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:55] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:55] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:55] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:56] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:56] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:56] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:56] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:56] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:56] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:56] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:56] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:56] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:56] [Sistema] Erro! É necessário estar logado!
+[20:56] [Sistema] Erro! Procedimento não cadastrado!
+[20:56] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:56] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:56] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:56] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:56] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:56] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:56] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:56] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:56] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:56] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:56] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:56] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:56] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:56] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:56] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:56] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:56] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:56] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:56] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:56] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:56] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:56] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:56] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:56] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:56] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:56] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:56] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:56] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:56] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:56] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:56] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:56] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:56] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:56] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:56] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:56] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:56] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:57] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:57] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:57] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:57] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:57] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:57] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:57] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:57] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:57] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:57] [Sistema] Erro! É necessário estar logado!
+[20:57] [Sistema] Erro! Procedimento não cadastrado!
+[20:57] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:57] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:57] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:57] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:57] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:57] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:57] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:57] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:57] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:57] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:57] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:57] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:57] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:57] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:57] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:57] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:57] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:57] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:57] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:57] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:57] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:57] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:57] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:57] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:57] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:57] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:57] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:57] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:57] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:57] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:57] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:57] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:57] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:57] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:57] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:57] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:57] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[20:58] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[20:58] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[20:58] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[20:58] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[20:58] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[20:58] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[20:58] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[20:58] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[20:58] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[20:58] [Sistema] Erro! É necessário estar logado!
+[20:58] [Sistema] Erro! Procedimento não cadastrado!
+[20:58] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[20:58] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[20:58] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[20:58] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[20:58] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[20:58] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[20:58] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[20:58] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[20:58] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[20:58] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[20:58] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[20:58] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[20:58] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[20:58] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[20:58] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[20:58] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[20:58] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[20:58] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[20:58] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[20:58] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[20:58] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:58] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:58] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[20:58] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:58] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:58] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[20:58] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:58] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:58] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[20:58] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[20:58] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[20:58] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[20:58] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[20:58] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[20:58] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
+[13:38] [Sistema] Objeto Secretário da classe ControleDeAcesso cadastrado com sucesso!
+[13:38] [Sistema] Objeto Administrador da classe ControleDeAcesso cadastrado com sucesso!
+[13:38] [Sistema] CadastrarProcedimento removida de Secretário!
+
+[13:38] [Sistema] Objeto Avenida das Macieiras, 719, Bairro Airton Marques, Vale das Bananeiras, MG da classe Endereco cadastrado com sucesso!
+[13:38] [Sistema] Objeto Avenida Dolores Pimentel, 312 - Apartamento, Bairro das Andorinhas, Vila do Ouro, RJ da classe Endereco cadastrado com sucesso!
+[13:38] [Sistema] Objeto Tatiana da classe Usuario cadastrado com sucesso!
+[13:38] [Sistema] Objeto Bonaparte da classe Usuario cadastrado com sucesso!
+[13:38] [Sistema] Objeto Tatiana Belso Marques da classe Funcionario cadastrado com sucesso!
+[13:38] [Sistema] Objeto Gabriel Bonaparte Santos da classe Funcionario cadastrado com sucesso!
+[13:38] [Sistema] Erro! É necessário estar logado!
+[13:38] [Sistema] Erro! Procedimento não cadastrado!
+[13:38] [Sistema] Erro! Cargo de Tatiana insuficiente!
+[13:38] [Sistema] Objeto Clínica Geral da classe Especialidade cadastrado com sucesso!
+[13:38] [Sistema] Objeto Endodontia da classe Especialidade cadastrado com sucesso!
+[13:38] [Sistema] Objeto Cirurgia da classe Especialidade cadastrado com sucesso!
+[13:38] [Sistema] Objeto Estética da classe Especialidade cadastrado com sucesso!
+[13:38] [Sistema] Objeto Limpeza da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Restauração da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Extração Comum da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Canal da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Extração de Siso da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Clareamento a laser da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Clareamento de moldeira da classe Procedimento cadastrado com sucesso!
+[13:38] [Sistema] Objeto Rua dos Advogados, 10 - Sobrado, Bairro dos Urubus, Riacho dos Engenheiros, RJ da classe Endereco cadastrado com sucesso!
+[13:38] [Sistema] Objeto Rua das Almas, 889 - Apartamento, Bairro dos Dentistas, Cidade dos Almoxarifados, RJ da classe Endereco cadastrado com sucesso!
+[13:38] [Sistema] Objeto Gabriel da Silva Nascimento da classe Dentista cadastrado com sucesso!
+[13:38] [Sistema] Objeto Omar Machado Lacerda da classe DentistaParceiro cadastrado com sucesso!
+[13:38] [Sistema] Objeto Fernanda Batista Luz da classe Cliente cadastrado com sucesso!
+[13:38] [Sistema] Objeto Gustavo Santana Melo da classe Paciente cadastrado com sucesso!
+[13:38] [Sistema] ConsultaAvaliacao às 06/11/2023 agendada com sucesso!
+[13:38] [Sistema] Objeto Gustavo Santana Melo da classe Orcamento cadastrado com sucesso!
+[13:38] [Sistema] Método de Pagamento PIX cadastrado com sucesso!
+[13:38] [Sistema] Método de Pagamento Crédito cadastrado com sucesso!
+[13:38] [Sistema] Pagamento PIX, R$ 1.135,00 em 1x cadastrado com sucesso!
+[13:38] [Sistema] Pagamento Crédito, R$ 1.135,00 em 3x cadastrado com sucesso!
+[13:38] [Sistema] Objeto Gustavo Santana Melo da classe Tratamento cadastrado com sucesso!
+[13:38] [Sistema] Consulta às 13/11/2023 agendada com sucesso!
+[13:38] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[13:38] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[13:38] [Sistema] Consulta às 20/11/2023 agendada com sucesso!
+[13:38] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[13:38] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[13:38] [Sistema] Consulta às 27/11/2023 agendada com sucesso!
+[13:38] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[13:38] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[13:38] [Sistema] Consulta às 04/12/2023 agendada com sucesso!
+[13:38] [Sistema] Dentista é apto para o(s) procedimento(s)!
+[13:38] [Sistema] 1 Procedimento(s) adicionado(s) à Consulta!
+
+[13:38] [Sistema] Consulta em 13/11/2023 - 14:00 foi concluída!
+[13:38] [Sistema] Consulta em 20/11/2023 - 14:00 foi concluída!
+[13:38] [Sistema] Pagamento PIX efetuado em 06/11/2023 no valor de R$ 1.135,00!
+[13:38] [Sistema] Pagamento Crédito efetuado em 13/11/2023 no valor de R$ 1.135,00!
